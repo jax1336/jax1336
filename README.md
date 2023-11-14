@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @jax1336
-- 👀 I’m interested in ...
-- 🌱 I’m currently nigga
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in c++ and devving
+- 🌱 I’m currently a pro 1337 dev
+- 📫 How to reach me ... jaxgg1x on discord
 
 <!---
 jax1336/jax1336 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
